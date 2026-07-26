@@ -1,8 +1,8 @@
 {
   "name": "Glacier Family Trip 2026",
   "short_name": "Glacier Trip",
-  "description": "Exact family itinerary, parking pins, trail starts, scenic coordinates, and offline preparation.",
-  "start_url": "./",
+  "description": "Exact family itinerary with Google Maps parking, final scenery directions, named place pages, reviews, visitor photos, and offline preparation.",
+  "start_url": "./?app=v4",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
@@ -21,5 +21,6 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "id": "./"
 }
