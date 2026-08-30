@@ -1,26 +1,22 @@
 {
-  "name": "Glacier Family Trip 2026",
+  "name": "Glacier Family Trip \u00b7 Sep 21\u201325, 2026",
   "short_name": "Glacier Trip",
-  "description": "Exact family itinerary with Google Maps parking, final scenery directions, named place pages, reviews, visitor photos, and offline preparation.",
-  "start_url": "./?app=v4",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "orientation": "any",
-  "background_color": "#f4f1e9",
-  "theme_color": "#1e5d45",
+  "background_color": "#f5f6f2",
+  "theme_color": "#102a23",
+  "description": "Offline-friendly Glacier family itinerary with exact parking, trail-start and scenery pins.",
   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
-  ],
-  "id": "./"
+  ]
 }
